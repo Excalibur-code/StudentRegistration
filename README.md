@@ -23,3 +23,17 @@ Sample command to be run to insert values in both tables are -
   ('Jammu and Kashmir', 'JK'),
   ('Uttar Pradesh', 'UP'),
   ('Uttrakhand', 'UK');
+
+2.)   INSERT INTO [NewRegistrationMVC].[dbo].[CitiesTbl] VALUES
+  ('Faridabad', 'HR'),
+  ('Rohtak', 'HR'),
+  ('Ahmedabad', 'GJ'),
+  ('Surat', 'GJ'),
+  ('Srinagar', 'JK'),
+  ('Jammu', 'JK'),
+  ('Noida', 'UP'),
+  ('Greater Noida', 'UP'),
+  ('Dehradun', 'UK'),
+  ('Haridwar', 'UK');
+
+If you've changed the database name in the appsetting file then use the same name in the query as well.
