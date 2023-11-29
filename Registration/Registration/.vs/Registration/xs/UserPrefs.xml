@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{307246ED-6F2F-455F-8990-5A6164B69622}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Registration/Registration.csproj">
+    <Files>
+      <File FileName="Registration/Controllers/StudentsController.cs" Line="1" Column="1" />
+      <File FileName="Registration/Registration.csproj" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Registration" expanded="True">
+            <Node name="Registration" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="StudentsController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Registration PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

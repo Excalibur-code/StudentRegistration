@@ -1,0 +1,509 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/obj/Debug/net6.0/scopedcss/projectbundle/Registration.bundle.scp.css",
+      "PackagePath": "staticwebassets/Registration.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/133456661559456029_1266.jpg",
+      "PackagePath": "staticwebassets/images/133456661559456029_1266.jpg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/133456698041840931_download.png",
+      "PackagePath": "staticwebassets/images/133456698041840931_download.png"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/133456700477639858_download.png",
+      "PackagePath": "staticwebassets/images/133456700477639858_download.png"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/133457174501139432_download2.png",
+      "PackagePath": "staticwebassets/images/133457174501139432_download2.png"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/133457180672502708_download2.png",
+      "PackagePath": "staticwebassets/images/133457180672502708_download2.png"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/133457275156422886_download.png",
+      "PackagePath": "staticwebassets/images/133457275156422886_download.png"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/3rd-party-integration.svg",
+      "PackagePath": "staticwebassets/images/icons/3rd-party-integration.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/add.svg",
+      "PackagePath": "staticwebassets/images/icons/add.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/addtocart.svg",
+      "PackagePath": "staticwebassets/images/icons/addtocart.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/admin.png",
+      "PackagePath": "staticwebassets/images/icons/admin.png"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/arrow_back.svg",
+      "PackagePath": "staticwebassets/images/icons/arrow_back.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/asset.svg",
+      "PackagePath": "staticwebassets/images/icons/asset.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/attach_icon.svg",
+      "PackagePath": "staticwebassets/images/icons/attach_icon.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/auth-login.svg",
+      "PackagePath": "staticwebassets/images/icons/auth-login.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/banking.svg",
+      "PackagePath": "staticwebassets/images/icons/banking.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/blogs.svg",
+      "PackagePath": "staticwebassets/images/icons/blogs.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/cms-pages.svg",
+      "PackagePath": "staticwebassets/images/icons/cms-pages.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/courier-button.svg",
+      "PackagePath": "staticwebassets/images/icons/courier-button.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/courier.svg",
+      "PackagePath": "staticwebassets/images/icons/courier.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/custom-feature.png",
+      "PackagePath": "staticwebassets/images/icons/custom-feature.png"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/customise1.svg",
+      "PackagePath": "staticwebassets/images/icons/customise1.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/customise2.svg",
+      "PackagePath": "staticwebassets/images/icons/customise2.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/delete.svg",
+      "PackagePath": "staticwebassets/images/icons/delete.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/documents.svg",
+      "PackagePath": "staticwebassets/images/icons/documents.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/ecommerce.svg",
+      "PackagePath": "staticwebassets/images/icons/ecommerce.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/edit.svg",
+      "PackagePath": "staticwebassets/images/icons/edit.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/education.svg",
+      "PackagePath": "staticwebassets/images/icons/education.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/enterprise-login.svg",
+      "PackagePath": "staticwebassets/images/icons/enterprise-login.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/fooddelivery.svg",
+      "PackagePath": "staticwebassets/images/icons/fooddelivery.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/forums.svg",
+      "PackagePath": "staticwebassets/images/icons/forums.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/functionalities.svg",
+      "PackagePath": "staticwebassets/images/icons/functionalities.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/home.svg",
+      "PackagePath": "staticwebassets/images/icons/home.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/industry-based.svg",
+      "PackagePath": "staticwebassets/images/icons/industry-based.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/industry-project.png",
+      "PackagePath": "staticwebassets/images/icons/industry-project.png"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/industry1.svg",
+      "PackagePath": "staticwebassets/images/icons/industry1.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/industry2.svg",
+      "PackagePath": "staticwebassets/images/icons/industry2.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/login.svg",
+      "PackagePath": "staticwebassets/images/icons/login.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/mail.svg",
+      "PackagePath": "staticwebassets/images/icons/mail.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/miscellaneous.svg",
+      "PackagePath": "staticwebassets/images/icons/miscellaneous.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/mobile1.svg",
+      "PackagePath": "staticwebassets/images/icons/mobile1.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/mobile2.svg",
+      "PackagePath": "staticwebassets/images/icons/mobile2.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/news.svg",
+      "PackagePath": "staticwebassets/images/icons/news.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/password.svg",
+      "PackagePath": "staticwebassets/images/icons/password.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/pharma.svg",
+      "PackagePath": "staticwebassets/images/icons/pharma.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/plus.svg",
+      "PackagePath": "staticwebassets/images/icons/plus.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/realestate.svg",
+      "PackagePath": "staticwebassets/images/icons/realestate.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/registration.svg",
+      "PackagePath": "staticwebassets/images/icons/registration.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/signboard.svg",
+      "PackagePath": "staticwebassets/images/icons/signboard.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/site-map.svg",
+      "PackagePath": "staticwebassets/images/icons/site-map.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/social-media-login.svg",
+      "PackagePath": "staticwebassets/images/icons/social-media-login.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/social.svg",
+      "PackagePath": "staticwebassets/images/icons/social.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/tick.svg",
+      "PackagePath": "staticwebassets/images/icons/tick.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/travel-icon.svg",
+      "PackagePath": "staticwebassets/images/icons/travel-icon.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/travel.svg",
+      "PackagePath": "staticwebassets/images/icons/travel.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/upload.svg",
+      "PackagePath": "staticwebassets/images/icons/upload.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/user-authentication.svg",
+      "PackagePath": "staticwebassets/images/icons/user-authentication.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/user.png",
+      "PackagePath": "staticwebassets/images/icons/user.png"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/web.svg",
+      "PackagePath": "staticwebassets/images/icons/web.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/web1.svg",
+      "PackagePath": "staticwebassets/images/icons/web1.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/images/icons/web2.svg",
+      "PackagePath": "staticwebassets/images/icons/web2.svg"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/js/script.js",
+      "PackagePath": "staticwebassets/js/script.js"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/harshpal/Downloads/Registration/Registration/Registration/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.Registration.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.Registration.props",
+      "PackagePath": "build\\Registration.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Registration.props",
+      "PackagePath": "buildMultiTargeting\\Registration.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Registration.props",
+      "PackagePath": "buildTransitive\\Registration.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

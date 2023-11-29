@@ -1,0 +1,101 @@
+﻿@model Registration.Models.Student
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Create</h2>
+<form enctype="multipart/form-data" method="post">
+    
+    <div class="body-container d-flex flex-column">
+
+        <div class="d-flex flex-row justify-content-between">
+            <div>
+                <label>Attach Icon</label>
+                <div class="icon-holder">
+                    <img id="imagePreview" src="~/images/icons/attach_icon.svg" class="icon" />
+                </div>
+                <span id="featurefilesize" class="text-danger">File size should be less than 250KB, supported image format is JPG and PNG</span>
+            </div>
+
+            <input class="form-control" asp-for="Photo" id="fileUpload" type="file">
+            <label class="btn-transparent" for="fileUpload">
+                <svg class="icon">
+                    <use xlink:href="#upload"></use>
+                </svg>
+                Upload
+            </label>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label>Name:</label>
+        <input type="text" class="form-control" asp-for="Name" />
+        <span class="text-danger" asp-validation-for="Name"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Email:</label>
+        <input type="email" class="form-control" asp-for="Email" />
+        <span class="text-danger" asp-validation-for="Email"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Mobile:</label>
+        <input type="text" class="form-control" asp-for="PhoneNumber" />
+        <span class="text-danger" asp-validation-for="PhoneNumber"></span>
+    </div>
+
+    <div class="form-group">
+        <label>State:</label>
+        <select id="StateSelect" class="form-control" asp-for="State" asp-items="ViewBag.States"></select>
+        <span class="text-danger" asp-validation-for="State"></span>
+    </div>
+
+    <div class="form-group">
+        <label>City:</label>
+        <div class="col-md-10">
+            <select id="citySelect" class="form-control" asp-for="City"></select>
+            <span class="text-danger" asp-validation-for="City"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label>About Yourself:</label>
+        <textarea class="form-control" asp-for="Summary"></textarea>
+        <span class="text-danger" asp-validation-for="Summary"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/4.0.0/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/js/script.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#citySelect').attr('disabled');
+            $('form').validate();
+
+            $('form').submit(function (e) {
+                debugger
+                e.preventDefault();
+
+                if ($(this).valid()) {
+                    this.submit();
+                } 
+                else {
+                    $('span.field-validation-error').each(function () {
+                        var errorMessage = $(this).text();
+                        if (errorMessage) {
+                            $(this).prev('input, select, textarea').addClass('is-invalid');
+                            $(this).text(errorMessage);
+                        }
+                    });
+                }
+            });
+        });
+    </script>
+}
